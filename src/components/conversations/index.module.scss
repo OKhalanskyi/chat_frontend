@@ -1,0 +1,24 @@
+.conversationAvatar{
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.conversationName{
+  font-weight: bold;
+  display: block;
+  font-size: 17px;
+}
+
+.conversationLastMessage{
+  font-size: 14px;
+  color: rgb(163,163,163);
+}
+.createConversationForm {
+  width: 100%;
+}
+
+.message {
+  margin: 8px 0;
+}
